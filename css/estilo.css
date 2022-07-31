@@ -129,7 +129,7 @@ body{
 
 section{
     display: inline-block;
-    margin-top: 80px;
+    margin-top:30px;
     margin-left: 5%;
     margin-right: 5%;
     /* height: 400px; */
@@ -151,6 +151,8 @@ section h2{
 .servico{
     display: inline-block;
     margin-top: 5%;
+    height: 400px;
+    /* border: 1px solid red; */
 }
 
 .card{
@@ -160,7 +162,7 @@ section h2{
     margin: 1%;
     border-radius: 10px;
     cursor: pointer; /* Para mudar o cursor do mouse para mãozinha */
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 /* EFEITOS SOBRE OS CARDs */
